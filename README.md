@@ -24,6 +24,8 @@ RL is a large field, especially when discussing Deep Learning algorithms! Once t
 - Intrinsic Motivation methods
 - ... And more!
 
-## Dependencies
+## Structure and Dependencies
 
-TBC
+We structure this repository into its respective chapters. Code snippets follow naming conventions related to what they highlight, and exercise solutions are in a `solutions` folder (per chapter).
+
+All code snippets and exercises have been tested using `Python 3.12.0` and the Python packages listed in the `requirements.txt` file. If you run the solutions yourself and encounter bugs, please create an [issue](https://github.com/Achronus/rl-fundamentals-guide/issues) here on GitHub.
