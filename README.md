@@ -1,6 +1,6 @@
 # Reinforcement Learning Fundamentals Guide
 
-This repository houses the exercises, code snippets, and roadmap for my Reinforcement Learning (RL) fundamentals guide. You can view the details on Medium [here](#).
+This repository houses the exercises, code snippets, and roadmap for my Reinforcement Learning (RL) fundamentals guide. You can view the details on Medium [here](https://medium.com/@achronus/im-making-a-guide-on-the-fundamentals-of-rl-here-s-what-you-need-to-know-2efadae9eec8).
 
 The guide is still in development and will be released as an e-book upon completion. Chapters available can already be viewed on Medium and will remain there indefinitely. You can use the same link above to find them.
 
